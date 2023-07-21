@@ -1,8 +1,15 @@
 # spotify-recommender
 
-**banner here**
-
-sistema de recomendacion de canciones de spotify basado en gustos musicales, proyecto realizado para la materia de IA-1 en la UIS
+<p align="center">
+  <p align="center">
+    <a href="https://github.com/Factral/spotify-recommender" target="_blank">
+      <img src="./images/banner.jpg" alt="Sentry" width="800" height="300">
+    </a>
+  </p>
+  <p align="center"><i>
+    sistema de recomendacion de canciones de spotify basado en gustos musicales
+  </i></p>
+</p>
 
 ## Autores
 
